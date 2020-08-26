@@ -1,0 +1,23 @@
+{
+  "name": "encryptouflage-page",
+  "version": "1.0.0",
+  "description": "The page designated for the encryptouflage module",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/data4040/encryptouflage-page.git"
+  },
+  "author": "data4040",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/data4040/encryptouflage-page/issues"
+  },
+  "homepage": "https://github.com/data4040/encryptouflage-page#readme",
+  "dependencies": {
+    "encryptouflage": "^1.1.0",
+    "express": "^4.17.1"
+  }
+}
